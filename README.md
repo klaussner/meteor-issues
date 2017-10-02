@@ -5,3 +5,4 @@
 * [#9002](https://github.com/klaussner/meteor-issues/tree/9002)
 * [#9060](https://github.com/klaussner/meteor-issues/tree/9060)
 * [#9160](https://github.com/klaussner/meteor-issues/tree/9160)
+* [#9145](https://github.com/klaussner/meteor-issues/tree/9145)
