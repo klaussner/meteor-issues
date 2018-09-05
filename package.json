@@ -1,0 +1,17 @@
+{
+  "name": "10195",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "meteor": {
+    "mainModule": {
+      "client": "client/main.js",
+      "server": "server/main.js"
+    }
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "meteor-node-stubs": "^0.4.1"
+  }
+}
